@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\bin\Debug\HomeWorkDapper.exe.config
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\bin\Debug\HomeWorkDapper.exe
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\bin\Debug\HomeWorkDapper.pdb
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\bin\Debug\Dapper.dll
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\bin\Debug\Dapper.xml
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\obj\Debug\HomeWorkDapper.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\obj\Debug\HomeWorkDapper.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\obj\Debug\HomeWorkDapper.exe
+C:\Users\User\source\repos\HomeWorkDapper\HomeWorkDapper\obj\Debug\HomeWorkDapper.pdb
